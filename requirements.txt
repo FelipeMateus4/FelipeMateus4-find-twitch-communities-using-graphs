@@ -1,0 +1,6 @@
+opencv-python-headless
+Pillow
+networkx
+pandas
+python-louvain
+matplotlib
